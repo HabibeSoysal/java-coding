@@ -28,7 +28,7 @@ public class C05_MethodCreatıonReturn {
             System.out.println("yil için geçerli bir sayi yazmalısınız(1900-2100)");
         }
 
-        System.out.println("kaçıncı ay olduğunu tamsayı oalrak yazınız");
+        System.out.println("kaçıncı ay olduğunu tamsayı olarak yazınız");
         int ay=scan.nextInt();
         if (ay<=0 || ay>12){
             System.out.println("Ay no 1-12 arasında olmalıdır");

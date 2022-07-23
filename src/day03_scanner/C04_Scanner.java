@@ -10,6 +10,6 @@ public class C04_Scanner {
         System.out.println("Lütfen isminizi giriniz");
 
         String kullaniciIsmi=scan.next();
-        System.out.println("İsminiz : "+kullaniciIsmi);
+        System.out.println("İsminiz : " + kullaniciIsmi);
     }
 }

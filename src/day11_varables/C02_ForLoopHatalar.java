@@ -2,8 +2,8 @@ package day11_varables;
 
 public class C02_ForLoopHatalar {
     public static void main(String[] args) {
-        /*
-       . hata= başlangıç noktasından sonra bitiş şartına yaklaşmıyorsak sonsuz loop oluşur
+
+       /* hata= başlangıç noktasından sonra bitiş şartına yaklaşmıyorsak sonsuz loop oluşur
 
         for (int i = 0; i >-10 ; i++) {
             System.out.print(i); }

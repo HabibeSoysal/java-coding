@@ -9,7 +9,7 @@ public class C02_IfStatements {
         if (sayi % 2 == 0) {
             System.out.println("sayi çift");
         }
-        if (sayi % 5 == 0) {
+        if (sayi % 5 == 0){
             System.out.println("sayi 5 in katı");
         }
     }
